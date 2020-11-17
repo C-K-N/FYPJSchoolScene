@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: a25c53322e8c3db4eaf06da22beaf9b9
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Hanzi-Pinyin-Font
+  fontNames:
+  - Hanzi-Pinyin-Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: ad7bc4c2341f72b45a4be7e6fbdb968c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

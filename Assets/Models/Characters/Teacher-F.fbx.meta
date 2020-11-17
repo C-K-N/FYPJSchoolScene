@@ -1,0 +1,935 @@
+fileFormatVersion: 2
+guid: 1758e2d328f79654698753d6aa31b543
+ModelImporter:
+  serializedVersion: 25
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: TKids Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids L Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger12
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger22
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger32
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger4
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger41
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids R Finger42
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: TKids Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Teacher-F(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: Teacher-F(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000021855694, y: 0, z: -0, w: 1}
+      scale: {x: 1.047276, y: 1.3939463, z: 1.0973105}
+    - name: TKids
+      parentName: Armature
+      position: {x: 2.842171e-16, y: 0.664925, z: 0.00021650792}
+      rotation: {x: -0.7071068, y: -0.0000005057622, z: -0.00000047485372, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids Pelvis
+      parentName: TKids
+      position: {x: -7.082453e-16, y: -1.2787935e-12, z: 0}
+      rotation: {x: 0.49969634, y: 0.50030416, z: 0.49969485, w: 0.5003043}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999998}
+    - name: TKids L Thigh
+      parentName: TKids Pelvis
+      position: {x: -0.00000014338099, y: -0.00000020271516, z: -0.07920689}
+      rotation: {x: 1, y: 0.00021336661, z: -0.0000038493395, w: 0.0000015068307}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: TKids L Calf
+      parentName: TKids L Thigh
+      position: {x: 1.36788e-11, y: 0.28423962, z: 0.0000000036206937}
+      rotation: {x: 0.0000000045603405, y: 0.000009803148, z: -0.0007324218, w: 0.99999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids L Foot
+      parentName: TKids L Calf
+      position: {x: 2.9831426e-11, y: 0.2842395, z: -8.8917174e-10}
+      rotation: {x: -0.39897987, y: 0.9169597, z: -0.0000025475133, w: 0.0000062609806}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.99999994}
+    - name: TKids L Toe0
+      parentName: TKids L Foot
+      position: {x: -0.0000000016337981, y: 0.1410519, z: -2.0020996e-10}
+      rotation: {x: 0.00000017996292, y: -0.000000060418984, z: 0.91709393, w: -0.39867124}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: TKids L Toe0_end
+      parentName: TKids L Toe0
+      position: {x: -0, y: 0.14105192, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Thigh
+      parentName: TKids Pelvis
+      position: {x: 0.000000085061565, y: 0.00000013330408, z: 0.07920689}
+      rotation: {x: 1, y: 0.00021336666, z: -0.0000038493104, w: 0.0000015068307}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: TKids R Calf
+      parentName: TKids R Thigh
+      position: {x: 5.3842087e-12, y: 0.28423962, z: -0.0000000011469238}
+      rotation: {x: 0.000000031209645, y: 0.000034735876, z: -0.0007324218, w: 0.99999976}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Foot
+      parentName: TKids R Calf
+      position: {x: 2.3283064e-12, y: 0.28423953, z: 0.0000000058222667}
+      rotation: {x: -0.3989799, y: 0.9169597, z: -0.000012545646, w: 0.000029071987}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: TKids R Toe0
+      parentName: TKids R Foot
+      position: {x: -0.0000000024771178, y: 0.1410519, z: 3.8911024e-11}
+      rotation: {x: 0.0000001670874, y: -0.0000000335198, z: 0.9170939, w: -0.39867136}
+      scale: {x: 1.0000002, y: 1, z: 1}
+    - name: TKids R Toe0_end
+      parentName: TKids R Toe0
+      position: {x: -0, y: 0.14105189, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids Spine
+      parentName: TKids Pelvis
+      position: {x: 0.00000005781622, y: 0.07117942, z: -0.00000019730462}
+      rotation: {x: -0.0000013863278, y: 0.0000020855382, z: 0.0005631346, w: 0.9999999}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: TKids Spine1
+      parentName: TKids Spine
+      position: {x: -4.3113542e-12, y: 0.1090512, z: 1.0150103e-13}
+      rotation: {x: 9.452799e-11, y: 6.2412783e-12, z: -0.000034668657, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids Spine2
+      parentName: TKids Spine1
+      position: {x: 5.78458e-13, y: 0.12171194, z: 3.619327e-14}
+      rotation: {x: 0.00000017659771, y: 0.000000014026326, z: -0.08029032, w: 0.9967715}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids L Clavicle
+      parentName: TKids Spine2
+      position: {x: 0.005982978, y: 0.08611639, z: -0.05160365}
+      rotation: {x: -0.05682975, y: 0.7048194, z: -0.70481926, w: 0.056831818}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.9999999}
+    - name: TKids L UpperArm
+      parentName: TKids L Clavicle
+      position: {x: -9.394171e-10, y: 0.07787369, z: -0.00000008051611}
+      rotation: {x: 1.4224646e-13, y: -0.000000071183585, z: 0.0000013960846, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids L Forearm
+      parentName: TKids L UpperArm
+      position: {x: -0.0000000013991667, y: 0.18366672, z: -0.00000011070114}
+      rotation: {x: -0.00000039241758, y: 0.00000001052362, z: -0.007227808, w: 0.9999739}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids L Hand
+      parentName: TKids L Forearm
+      position: {x: -0.0000000020187871, y: 0.18366674, z: -0.000000063605604}
+      rotation: {x: 0.0418039, y: 0.6791805, z: -0.0018772274, w: 0.73277754}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: TKids L Finger0
+      parentName: TKids L Hand
+      position: {x: -0.0067127785, y: 0.011968844, z: 0.042807356}
+      rotation: {x: 0.21690303, y: -0.64485484, z: -0.27354392, w: 0.6799184}
+      scale: {x: 0.9999998, y: 0.99999964, z: 1}
+    - name: TKids L Finger01
+      parentName: TKids L Finger0
+      position: {x: -0.000000040754674, y: 0.054616913, z: -0.0000001240999}
+      rotation: {x: 0.0000014423206, y: 0.00000023675967, z: 0.0002341724, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: TKids L Finger02
+      parentName: TKids L Finger01
+      position: {x: 0.000000032559036, y: 0.029044962, z: 0.00000009362236}
+      rotation: {x: -0.0000014309592, y: -0.00000057313815, z: 0.00023335933, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: TKids L Finger02_end
+      parentName: TKids L Finger02
+      position: {x: -0, y: 0.02904494, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids L Finger1
+      parentName: TKids L Hand
+      position: {x: 0.00882036, y: 0.09295462, z: 0.028406514}
+      rotation: {x: -0.03808162, y: 0.038508277, z: -0.027736519, w: 0.9981471}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: TKids L Finger11
+      parentName: TKids L Finger1
+      position: {x: -0.00000007579568, y: 0.029689096, z: -0.0000000023661413}
+      rotation: {x: -0.00000000247406, y: -0.000000009191164, z: 0.00023375954, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: TKids L Finger12
+      parentName: TKids L Finger11
+      position: {x: -0.00000007011578, y: 0.029689187, z: -2.872548e-10}
+      rotation: {x: -0.000000006393364, y: 0.000000005551199, z: 0.00023381243, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: TKids L Finger12_end
+      parentName: TKids L Finger12
+      position: {x: -0, y: 0.029689206, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids L Finger2
+      parentName: TKids L Hand
+      position: {x: 0.009656672, y: 0.095254235, z: -0.0006217694}
+      rotation: {x: -0.038081627, y: 0.038508266, z: -0.02773661, w: 0.9981471}
+      scale: {x: 1, y: 0.99999976, z: 0.99999994}
+    - name: TKids L Finger21
+      parentName: TKids L Finger2
+      position: {x: -0.00000005895912, y: 0.029702613, z: 2.9656802e-10}
+      rotation: {x: 0.000000015888865, y: -0.000000018422083, z: 0.00023497677, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: TKids L Finger22
+      parentName: TKids L Finger21
+      position: {x: -0.000000040547455, y: 0.029702649, z: -4.2520695e-10}
+      rotation: {x: -0.000000044722835, y: 0.000000045696826, z: 0.0002324195, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: TKids L Finger22_end
+      parentName: TKids L Finger22
+      position: {x: -0, y: 0.029702557, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids L Finger3
+      parentName: TKids L Hand
+      position: {x: 0.0026807413, y: 0.09052024, z: -0.027038932}
+      rotation: {x: -0.038081612, y: 0.038508218, z: -0.027737562, w: 0.9981471}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+    - name: TKids L Finger31
+      parentName: TKids L Finger3
+      position: {x: -0.0000000305078, y: 0.029982679, z: 0.0000000021010054}
+      rotation: {x: -0.00000004333782, y: -0.000000002826936, z: 0.00023662155, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: TKids L Finger32
+      parentName: TKids L Finger31
+      position: {x: -0.00000009942334, y: 0.029982764, z: -0.000000003439345}
+      rotation: {x: -0.00000002626375, y: 0.000000027093273, z: 0.00023029813, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: TKids L Finger32_end
+      parentName: TKids L Finger32
+      position: {x: -0, y: 0.029982708, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids L Finger4
+      parentName: TKids L Hand
+      position: {x: -0.014445025, y: 0.08327263, z: -0.04355317}
+      rotation: {x: -0.038081646, y: 0.038508236, z: -0.027736973, w: 0.9981471}
+      scale: {x: 1.0000001, y: 0.99999976, z: 0.99999994}
+    - name: TKids L Finger41
+      parentName: TKids L Finger4
+      position: {x: 0.000000054617413, y: 0.026837833, z: 0.0000000030679803}
+      rotation: {x: -0.0000000054730123, y: 0.000000018195447, z: 0.00023590245, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: TKids L Finger42
+      parentName: TKids L Finger41
+      position: {x: 0.00000003173947, y: 0.026837908, z: 0.00000001045817}
+      rotation: {x: -0.000000012799917, y: 0.000000008559627, z: 0.00023023131, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: TKids L Finger42_end
+      parentName: TKids L Finger42
+      position: {x: -0, y: 0.026837794, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids Neck
+      parentName: TKids Spine2
+      position: {x: -0.011965603, y: 0.14643373, z: -0.000000050204438}
+      rotation: {x: -0.0000004127291, y: -0.00000003247252, z: 0.16733158, w: 0.9859007}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: TKids Head
+      parentName: TKids Neck
+      position: {x: 0.0000000014168401, y: 0.0650927, z: 1.2171596e-13}
+      rotation: {x: 0.000080196965, y: -0.0000069609637, z: 0.117183216, w: 0.99311036}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: Bone
+      parentName: TKids Head
+      position: {x: -0.20227234, y: 0.3194546, z: -0.004493428}
+      rotation: {x: -0.14408153, y: -0.69228417, z: -0.14396879, w: 0.6922833}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone_end
+      parentName: Bone
+      position: {x: -0, y: 0.010367432, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001
+      parentName: TKids Head
+      position: {x: 0.11126052, y: 0.33538783, z: 0.0022393905}
+      rotation: {x: -0.14408186, y: -0.6922841, z: -0.14396904, w: 0.6922832}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Bone.001_end
+      parentName: Bone.001
+      position: {x: -0, y: 0.053421326, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids Eyebrows
+      parentName: TKids Head
+      position: {x: 0.08616574, y: 0.2503819, z: -0.000042135634}
+      rotation: {x: -0.00005917246, y: 0.000058813486, z: 0.5297402, w: 0.84816}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: TKids Eyebrows_end
+      parentName: TKids Eyebrows
+      position: {x: -0, y: 0.1988655, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids Jaw
+      parentName: TKids Head
+      position: {x: 0.0029866647, y: 0.10361869, z: -0.000016401305}
+      rotation: {x: -0.000081386796, y: 0.000019713309, z: 0.034454726, w: 0.9994063}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: TKids Smile
+      parentName: TKids Jaw
+      position: {x: 0.0000000071557564, y: 0.00017861008, z: -6.8610005e-13}
+      rotation: {x: -0.0000008963208, y: -0.00000007234158, z: 0.00022976105, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids Smile_end
+      parentName: TKids Smile
+      position: {x: -0, y: 0.00017852952, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids LidL
+      parentName: TKids Head
+      position: {x: -0.022290435, y: 0.1944991, z: -0.064649425}
+      rotation: {x: -0.35138547, y: 0.926983, z: -0.09055121, w: 0.09503304}
+      scale: {x: 0.99999994, y: 1.0000002, z: 0.99999994}
+    - name: TKids LidL_end
+      parentName: TKids LidL
+      position: {x: -0, y: 0.19886552, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids LidR
+      parentName: TKids Head
+      position: {x: -0.022286264, y: 0.1945196, z: 0.06467798}
+      rotation: {x: -0.35136744, y: 0.92699426, z: 0.09041627, w: -0.095118254}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.9999999}
+    - name: TKids LidR_end
+      parentName: TKids LidR
+      position: {x: -0, y: 0.19886549, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKidseyeL
+      parentName: TKids Head
+      position: {x: -0.022290492, y: 0.19449897, z: -0.06464941}
+      rotation: {x: -0.5478098, y: 0.8354799, z: -0.03531915, w: 0.025104877}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: TKidseyeL_end
+      parentName: TKidseyeL
+      position: {x: -0, y: 0.1988655, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKidseyeR
+      parentName: TKids Head
+      position: {x: -0.022286246, y: 0.19451976, z: 0.064678006}
+      rotation: {x: -0.5478061, y: 0.83548695, z: 0.03515448, w: -0.02518317}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: TKidseyeR_end
+      parentName: TKidseyeR
+      position: {x: -0, y: 0.19886552, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Clavicle
+      parentName: TKids Spine2
+      position: {x: 0.005982701, y: 0.086116366, z: 0.0516037}
+      rotation: {x: -0.056831475, y: 0.7048194, z: 0.70481926, w: -0.056829926}
+      scale: {x: 1, y: 0.9999998, z: 0.99999994}
+    - name: TKids R UpperArm
+      parentName: TKids R Clavicle
+      position: {x: -4.7866705e-10, y: 0.07787371, z: 0.000000018952692}
+      rotation: {x: 7.026173e-15, y: 0.000000045172204, z: 0.0000014156371, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Forearm
+      parentName: TKids R UpperArm
+      position: {x: 2.3548635e-10, y: 0.1836667, z: -0.00000001531919}
+      rotation: {x: 3.317417e-10, y: 2.6033056e-10, z: -0.007227823, w: 0.9999739}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Hand
+      parentName: TKids R Forearm
+      position: {x: -7.508788e-11, y: 0.18366668, z: 0.00000003187696}
+      rotation: {x: -0.041803643, y: -0.67918026, z: -0.0018774896, w: 0.73277766}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Finger0
+      parentName: TKids R Hand
+      position: {x: -0.006712821, y: 0.011968819, z: -0.042807348}
+      rotation: {x: -0.21690291, y: 0.64485496, z: -0.27354398, w: 0.6799183}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: TKids R Finger01
+      parentName: TKids R Finger0
+      position: {x: 0.000000015869736, y: 0.054616842, z: 0.000000004026806}
+      rotation: {x: -0.0000014357572, y: -0.00000042840472, z: 0.00023438092, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: TKids R Finger02
+      parentName: TKids R Finger01
+      position: {x: 0.000000011995435, y: 0.02904487, z: 0.0000000012095551}
+      rotation: {x: 0.0000014988148, y: 0.00000037560315, z: 0.00023361255, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: TKids R Finger02_end
+      parentName: TKids R Finger02
+      position: {x: -0, y: 0.029044893, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Finger1
+      parentName: TKids R Hand
+      position: {x: 0.008820306, y: 0.09295454, z: -0.028406514}
+      rotation: {x: 0.038081657, y: -0.038508307, z: -0.027736614, w: 0.9981471}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: TKids R Finger11
+      parentName: TKids R Finger1
+      position: {x: -0.00000003873836, y: 0.029689282, z: 0.0000000010509029}
+      rotation: {x: -0.0000000049011537, y: -0.00000006656116, z: 0.00023395508, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: TKids R Finger12
+      parentName: TKids R Finger11
+      position: {x: -0.000000102285995, y: 0.029689189, z: 0.0000000020514017}
+      rotation: {x: 0.0000000065347274, y: 0.00000006172261, z: 0.00023381245, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: TKids R Finger12_end
+      parentName: TKids R Finger12
+      position: {x: -0, y: 0.029689206, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Finger2
+      parentName: TKids R Hand
+      position: {x: 0.009656609, y: 0.09525423, z: 0.00062177476}
+      rotation: {x: 0.038081657, y: -0.038508315, z: -0.027736709, w: 0.9981471}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: TKids R Finger21
+      parentName: TKids R Finger2
+      position: {x: 0.00000004112313, y: 0.029702663, z: 4.102003e-10}
+      rotation: {x: -0.000000009753521, y: -0.00000004557718, z: 0.00023497794, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: TKids R Finger22
+      parentName: TKids R Finger21
+      position: {x: 0.000000048038782, y: 0.02970258, z: 5.7669236e-10}
+      rotation: {x: 0.000000014220428, y: 0.00000005160354, z: 0.00023241776, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Finger22_end
+      parentName: TKids R Finger22
+      position: {x: -0, y: 0.029702634, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Finger3
+      parentName: TKids R Hand
+      position: {x: 0.0026806104, y: 0.09052022, z: 0.027038917}
+      rotation: {x: 0.03808175, y: -0.03850829, z: -0.027737638, w: 0.9981471}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: TKids R Finger31
+      parentName: TKids R Finger3
+      position: {x: -0.000000053474214, y: 0.029982755, z: -0.0000000018410538}
+      rotation: {x: -0.000000092482324, y: -0.000000009106243, z: 0.00023672075, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+    - name: TKids R Finger32
+      parentName: TKids R Finger31
+      position: {x: -0.000000006966293, y: 0.02998262, z: -4.1009116e-10}
+      rotation: {x: 0.00000010525451, y: -0.000000039553626, z: 0.00023019851, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Finger32_end
+      parentName: TKids R Finger32
+      position: {x: -0, y: 0.029982785, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Finger4
+      parentName: TKids R Hand
+      position: {x: -0.014445059, y: 0.083272696, z: 0.043553166}
+      rotation: {x: 0.038081724, y: -0.038508326, z: -0.027737077, w: 0.9981471}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: TKids R Finger41
+      parentName: TKids R Finger4
+      position: {x: 0.000000037099234, y: 0.026837783, z: -0.0000000032093703}
+      rotation: {x: -0.000000012044716, y: -0.00000007444752, z: 0.00023590183, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: TKids R Finger42
+      parentName: TKids R Finger41
+      position: {x: 0.000000013783573, y: 0.026837936, z: 0.0000000013088902}
+      rotation: {x: -0.00000017768747, y: 0.00000023660665, z: 0.00023042351, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: TKids R Finger42_end
+      parentName: TKids R Finger42
+      position: {x: -0, y: 0.026837833, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: hair06
+      parentName: Teacher-F(Clone)
+      position: {x: -0, y: 0.16180599, z: -4.440892e-16}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1.0654787, y: 1.2620839, z: 1.2700415}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
