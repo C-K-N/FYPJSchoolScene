@@ -3,9 +3,9 @@ This project will explore the use of VR in teaching and learning especially for 
 It will exploit the participatory and immersive attributes of VR to make learning authentic and engaging to the students.
 
 After opening the scene within Unity,
-1. If materials are not displaying appropriately, reimport all assets again.
+1. If materials are not displaying appropriately, reimport all assets again
 2. Switch platform to Android
-3. Build!
+3. Build and Run!
 
 • Made in Unity 2019.4.9f1 </br>
 • Made for Oculus Quest
